@@ -18,7 +18,6 @@ drawings:
   persist: false
 # use UnoCSS
 css: unocss
-download: true
 dark: true
 fonts:
   # 与 css 中的 font-family 一致，你可以使用 `,` 来分割字体名，便于降级
