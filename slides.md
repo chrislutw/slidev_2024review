@@ -22,6 +22,9 @@ dark: true
 fonts:
   # 与 css 中的 font-family 一致，你可以使用 `,` 来分割字体名，便于降级
   sans: "Noto Sans TC"
+exportFilename: exported-review
+export:
+  format: pptx
 ---
 
 # 2024年 回顧與未來展望
